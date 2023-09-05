@@ -1,9 +1,11 @@
 [submodule "external/libroadrunner-deps"]
 	path = external/libroadrunner-deps
 	url = https://github.com/sys-bio/libroadrunner-deps.git
+	branch = v2.1
 [submodule "external/llvm-13.x"]
 	path = external/llvm-13.x
 	url = https://github.com/sys-bio/llvm-13.x.git
 [submodule "external/roadrunner"]
 	path = external/roadrunner
 	url = https://github.com/sys-bio/roadrunner.git
+	branch = v2.4.0
